@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Short+Stack&display=swap');
+body {
+    background-color: rgb(13, 68, 70);
+    color: white;
+    font-family: 'Short Stack', cursive;
+    text-align: center;
+}
